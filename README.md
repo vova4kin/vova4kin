@@ -7,7 +7,7 @@ I run a small private engineering shop based in Khmelnytskyi, Ukraine. We ship R
 ## Named-client receipts
 
 - **[MoveitPro](https://moveitpro.com)** (USA) — I built the first Rails version for founder Jason Bergenske (2010, freelance). Today: 2,000+ moving companies, 40,000+ daily users.
-- **[HappyCo](https://happyco.com)** (Australia → USA) — Authored V1 remotely for founder Jindou Lee. He won a US grant, relocated, and scaled into a substantial PropTech platform.
+- **[HappyCo](https://happyco.com)** (Australia → USA) — Authored V1 remotely for founder Jindou Lee. He won a US grant, relocated, and scaled into a PropTech platform now managing 1.5M+ units.
 - **[Cliqpod](https://cliqpod.io)** (Barcelona) — VeViDi authored V1 with founders Raymond Stauffer + Michael S. Now serves 20M+ users, 200M+ pageviews/month (Word.Tips, Crossword-Solver.io).
 - **[LionWheel](https://lionwheel.com)** (USA) — Ongoing engineering team since founder Guy Dubrovski's earliest customers. Now: 1,000+ businesses worldwide, 4.8/5 G2 + Capterra.
 - **[NOVEM Gold](https://novem-gold.com)** (Austria) — Stabilized the Rails backend of this regulated precious-metals investment platform from buggy live product to zero Sentry alerts in months.
@@ -18,8 +18,8 @@ Plus 17+ years of whitelabel work under NDA — regulated FinTech (payroll, paym
 ## How I work
 
 - **Senior judgment first, AI capability second.** I know which tool serves which task. AI is the medium, not the identity.
-- **One human relationship per engagement.** I stay across the relationship's life — Jindou Lee's "I hope to find a way to work together again" arrived ~10 years after his MoveitPro V1.
-- **$25K+ minimum engagement, remote-first.** Not a fit for staffing-only briefs or hourly-rate shopping.
+- **One human relationship per engagement.** I stay across the relationship's life — Jindou Lee's "I hope to find a way to work together again" arrived ~10 years after his HappyCo V1.
+- **$10K minimum engagement, remote-first.** Not a fit for staffing-only briefs or hourly-rate shopping.
 
 ## Stack
 
