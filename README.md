@@ -19,7 +19,6 @@ Plus 17+ years of whitelabel work under NDA — regulated FinTech (payroll, paym
 
 - **Senior judgment first, AI capability second.** I know which tool serves which task. AI is the medium, not the identity.
 - **One human relationship per engagement.** I stay across the relationship's life — Jindou Lee's "I hope to find a way to work together again" arrived ~10 years after his HappyCo V1.
-- **$10K minimum engagement, remote-first.** Not a fit for staffing-only briefs or hourly-rate shopping.
 
 ## Stack
 
