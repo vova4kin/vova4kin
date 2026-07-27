@@ -33,7 +33,7 @@ Founder of **[ADnull](https://adnull.com)** — a consumer DNS-level ad and trac
 - 🌐 [vevidi.com](https://vevidi.com) — the agency
 - 🔒 [adnull.com](https://adnull.com) — the parallel consumer SaaS
 - 💼 [LinkedIn](https://www.linkedin.com/in/volodymyr-petlovy/)
-- 📧 vova4kin@gmail.com
+- 📧 volodymyr.p@vevidi.com
 
 ---
 
